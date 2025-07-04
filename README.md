@@ -21,6 +21,8 @@ A real-time monitoring tool for Event Tracing for Windows (ETW) session buffers,
 - **Configurable refresh intervals**
 - **One-time snapshots** for quick checks
 
+![Screenshot](ETWtop.png)
+
 ## 📋 Requirements
 
 - **Windows OS** (uses Windows ETW APIs)
