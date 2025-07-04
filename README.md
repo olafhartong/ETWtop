@@ -172,5 +172,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Related Tools
 
-- **Windows Performance Toolkit (WPT)** - Official Microsoft ETW tools, primarily xperf.exe
+- **Windows Assessment and Deployment Kit (Windows ADK)** - Official Microsoft ETW tools, primarily xperf.exe
 - **logman.exe** - Built-in Windows ETW management utility
